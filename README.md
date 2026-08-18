@@ -1,4 +1,4 @@
-<h1 align="center">-- Marcos Campos --/h1>
+<h1 align="center">-- Marcos Campos --</h1>
 
 <p align="center">
   <b>Python</b> · <b>Análise de Dados</b> · <b>Vibe Coding com propósito</b>
