@@ -3,8 +3,12 @@
 <p align="center">
   <b>Python</b> · <b>Análise de Dados</b> · <b>Vibe Coding com propósito</b>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marcoscamposbhargo/assets-banner.png/main/WALLPAPER2.png" alt="Banner" width="100%" />
+</p>
 
 <p align="center">
+  
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
