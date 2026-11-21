@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/marcoscamposbhargo/marcoscamposbhargo/main/assets/banner.jpg" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/marcoscamposbhargo/marcoscamposbhargo/main/assets/banner.png" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
