@@ -6,7 +6,7 @@ Background full stack em Python, TypeScript e Java — especifico, prototipo e l
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/marcoscamposbhargo/marcoscamposbhargo/main/assets/banner.svg" alt="Banner" width="100%" />
+<img src="https://d8j0ntlcm91z4.cloudfront.net/user_3EruJb5ahw3wwzTRQTV2zJg62ve/hf_20261121_162050_9421ae25-837f-40b7-b76c-210bd58f4269.png" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
