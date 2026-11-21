@@ -1,7 +1,7 @@
 <h1 align="center">Marcos Campos</h1>
 
 <p align="center">
-<b>Product Manager · Aplicação com IA</b><br />
+<b>Product Manager · Aplicação com IA · Claude Code Expert</b><br />
 Background full stack em Python, TypeScript e Java — especifico, prototipo e levo o produto até produção
 </p>
 
@@ -13,6 +13,7 @@ Background full stack em Python, TypeScript e Java — especifico, prototipo e l
 <img src="https://img.shields.io/badge/-Product%20Management-0F172A?style=flat-square" />
 <img src="https://img.shields.io/badge/-Aplica%C3%A7%C3%A3o%20com%20IA-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/-LLMs-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/-Claude%20Code%20Expert-D97757?style=flat-square" />
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=white" />
@@ -29,6 +30,7 @@ Atuo como **Product Manager com foco em aplicação com IA**: parto do problema 
 
 - 🎯 **Produto:** descoberta com usuários, recorte de escopo, priorização e roadmap
 - 🤖 **IA aplicada:** decidir onde um LLM resolve de fato o problema (e onde não resolve), desenhar o fluxo, avaliar a qualidade da saída e controlar custo por token
+- **Claude Code:** uso diário em desenvolvimento e automação, incluindo ferramentas próprias construídas sobre ele
 - 📐 **Especificação:** PRDs, critérios de aceite e modelagem de dados que engenharia consegue executar sem retrabalho
 - 📊 **Métricas:** indicadores de ativação, uso e retenção — definidos antes do build e lidos para decidir o ciclo seguinte
 - 🧱 **Execução técnica:** Python (Flask, FastAPI), TypeScript/React, PostgreSQL e Docker — protótipos e MVPs ponta a ponta
