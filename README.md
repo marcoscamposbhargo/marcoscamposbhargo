@@ -1,17 +1,17 @@
 <h1 align="center">Marcos Campos</h1>
 
 <p align="center">
-<b>Product Manager · Aplicações de IA</b><br />
+<b>Product Manager · Aplicação com IA</b><br />
 Background full stack em Python, TypeScript e Java — especifico, prototipo e levo o produto até produção
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/marcoscamposbhargo/marcoscamposbhargo/main/assets/banner.png" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/marcoscamposbhargo/marcoscamposbhargo/main/assets/banner.svg" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Product%20Management-0F172A?style=flat-square" />
-<img src="https://img.shields.io/badge/-IA%20Aplicada-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/-Aplica%C3%A7%C3%A3o%20com%20IA-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/-LLMs-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -25,7 +25,7 @@ Background full stack em Python, TypeScript e Java — especifico, prototipo e l
 
 ### 🎯 O que eu faço hoje
 
-Atuo como **Product Manager com foco em aplicações de IA**: parto do problema de negócio, defino escopo, não-escopo e métricas de sucesso, e acompanho o produto até produção. O diferencial é técnico — escrevo a especificação e também o protótipo, o que encurta o ciclo entre hipótese e versão funcional.
+Atuo como **Product Manager com foco em aplicação com IA**: parto do problema de negócio, defino escopo, não-escopo e métricas de sucesso, e acompanho o produto até produção. O diferencial é técnico — escrevo a especificação e também o protótipo, o que encurta o ciclo entre hipótese e versão funcional.
 
 - 🎯 **Produto:** descoberta com usuários, recorte de escopo, priorização e roadmap
 - 🤖 **IA aplicada:** decidir onde um LLM resolve de fato o problema (e onde não resolve), desenhar o fluxo, avaliar a qualidade da saída e controlar custo por token
