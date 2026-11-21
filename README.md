@@ -1,8 +1,8 @@
 <h1 align="center">Marcos Campos</h1>
 
 <p align="center">
-<b>Desenvolvedor Full Stack</b> · Python · TypeScript · Java<br />
-SaaS, APIs e automação para pequenas e médias empresas
+<b>Product Manager · Aplicações de IA</b><br />
+Background full stack em Python, TypeScript e Java — especifico, prototipo e levo o produto até produção
 </p>
 
 <p align="center">
@@ -10,35 +10,45 @@ SaaS, APIs e automação para pequenas e médias empresas
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/-Product%20Management-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/-IA%20Aplicada-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/-LLMs-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-### 🧭 Sobre mim
+### 🎯 O que eu faço hoje
 
-Construo aplicações **ponta a ponta** — modelagem de dados, API, interface e deploy. Meu foco são **produtos de software para pequenas e médias empresas**: CRMs operacionais, plataformas SaaS de gestão e automação de processos fiscais. Software que precisa rodar em produção, não só no `localhost`.
+Atuo como **Product Manager com foco em aplicações de IA**: parto do problema de negócio, defino escopo, não-escopo e métricas de sucesso, e acompanho o produto até produção. O diferencial é técnico — escrevo a especificação e também o protótipo, o que encurta o ciclo entre hipótese e versão funcional.
 
-- 🔭 **Hoje:** plataformas SaaS de gestão e automação de processos fiscais
-- 🧱 **Backend:** Python (Flask, FastAPI) e Java (Spring Boot) — APIs REST, autenticação e integrações com sistemas externos
-- 🖥️ **Frontend:** TypeScript, React, JavaScript, HTML5 e CSS3
-- 🗄️ **Dados:** PostgreSQL e SQLite — modelagem relacional, SQL avançado (JOINs, agregações, views) e análise com Pandas
-- 🐳 **Infra:** Docker, Git e ambientes reprodutíveis
-- 🧪 **Processo:** revisão de código, testes e refatoração contínua — inclusive sobre o que é acelerado por IA generativa
-- 🔒 Parte dos projetos em que trabalho está em repositórios privados
-- 🤝 Aberto a colaborações e a trocar ideias sobre arquitetura e engenharia de software
+- 🎯 **Produto:** descoberta com usuários, recorte de escopo, priorização e roadmap
+- 🤖 **IA aplicada:** decidir onde um LLM resolve de fato o problema (e onde não resolve), desenhar o fluxo, avaliar a qualidade da saída e controlar custo por token
+- 📐 **Especificação:** PRDs, critérios de aceite e modelagem de dados que engenharia consegue executar sem retrabalho
+- 📊 **Métricas:** indicadores de ativação, uso e retenção — definidos antes do build e lidos para decidir o ciclo seguinte
+- 🧱 **Execução técnica:** Python (Flask, FastAPI), TypeScript/React, PostgreSQL e Docker — protótipos e MVPs ponta a ponta
+- 🧪 **Processo:** revisão de código, testes e refatoração contínua, inclusive sobre o que é acelerado por IA generativa
+- 🔒 Parte dos produtos em que trabalho está em repositórios privados
 
 ---
 
 ### 🛠️ Stack
+
+**Produto & IA**
+
+<p>
+<img src="https://img.shields.io/badge/-Product%20Discovery-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/-PRD%20%26%20Specs-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/-Roadmap-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/-M%C3%A9tricas%20de%20Produto-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/-LLMs%20em%20produto-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/-Avalia%C3%A7%C3%A3o%20%26%20custo%20de%20tokens-7C3AED?style=flat-square" />
+</p>
 
 **Backend**
 
