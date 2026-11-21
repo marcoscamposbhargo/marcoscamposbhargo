@@ -26,7 +26,7 @@ Background full stack em Python, TypeScript e Java — especifico, prototipo e l
 
 ### 🎯 O que eu faço hoje
 
-Atuo como **Building a Product ManagerProduct Manager com foco em aplicação com IA**: parto do problema de negócio, defino escopo, não-escopo e métricas de sucesso, e acompanho o produto até produção. O diferencial é técnico — escrevo a especificação e também o protótipo, o que encurta o ciclo entre hipótese e versão funcional.
+Atuo como **Building a Product Manager com foco em aplicação com IA**: parto do problema de negócio, defino escopo, não-escopo e métricas de sucesso, e acompanho o produto até produção. O diferencial é técnico — escrevo a especificação e também o protótipo, o que encurta o ciclo entre hipótese e versão funcional.
 
 - 🎯 **Produto:** descoberta com usuários, recorte de escopo, priorização e roadmap
 - 🤖 **IA aplicada:** decidir onde um LLM resolve de fato o problema (e onde não resolve), desenhar o fluxo, avaliar a qualidade da saída e controlar custo por token
