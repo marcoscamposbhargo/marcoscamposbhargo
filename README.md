@@ -1,7 +1,8 @@
 <h1 align="center">Marcos Campos</h1>
 
 <p align="center">
-<b>Desenvolvedor Full Stack</b> · Python & TypeScript · SaaS, APIs e automação para negócios reais
+<b>Desenvolvedor Full Stack</b> · Python · TypeScript · Java<br />
+SaaS, APIs e automação para pequenas e médias empresas
 </p>
 
 <p align="center">
@@ -9,57 +10,62 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Full%20Stack-0F172A?style=flat&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ---
 
 ### 🧭 Sobre mim
 
-Construo aplicações **ponta a ponta**: da modelagem do banco e da API até a interface que o usuário final realmente usa.
+Construo aplicações **ponta a ponta** — modelagem de dados, API, interface e deploy. Meu foco são **produtos de software para pequenas e médias empresas**: CRMs operacionais, plataformas SaaS de gestão e automação de processos fiscais. Software que precisa rodar em produção, não só no `localhost`.
 
-Meu foco são **produtos de software para pequenas e médias empresas** — CRMs operacionais, plataformas SaaS de gestão, automação fiscal e integrações com sistemas externos. Projetos que precisam funcionar em produção, não só no `localhost`.
-
-- 🔭 Atualmente desenvolvendo plataformas SaaS de gestão e automação de processos fiscais
-- 🧱 Backend em **Python (Flask)** e **Java (Spring Boot)**; frontend em **TypeScript**, JavaScript, HTML5 e CSS3
-- 🗄️ Modelagem relacional, SQL avançado (JOINs, agregações, views) e integrações via API REST
-- 🤖 Uso IA generativa como acelerador no desenvolvimento — sempre com revisão, teste e refatoração do que é gerado
-- 🤝 Aberto a colaborações e a trocar ideias sobre arquitetura, boas práticas e engenharia de software
+- 🔭 **Hoje:** plataformas SaaS de gestão e automação de processos fiscais
+- 🧱 **Backend:** Python (Flask, FastAPI) e Java (Spring Boot) — APIs REST, autenticação e integrações com sistemas externos
+- 🖥️ **Frontend:** TypeScript, React, JavaScript, HTML5 e CSS3
+- 🗄️ **Dados:** PostgreSQL e SQLite — modelagem relacional, SQL avançado (JOINs, agregações, views) e análise com Pandas
+- 🐳 **Infra:** Docker, Git e ambientes reprodutíveis
+- 🧪 **Processo:** revisão de código, testes e refatoração contínua — inclusive sobre o que é acelerado por IA generativa
+- 🔒 Parte dos projetos em que trabalho está em repositórios privados
+- 🤝 Aberto a colaborações e a trocar ideias sobre arquitetura e engenharia de software
 
 ---
 
 ### 🛠️ Stack
-
-**Frontend**
-
-<p>
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
 
 **Backend**
 
 <p>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/-REST%20API-25A162?style=flat-square" />
 <img src="https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
 </p>
 
+**Frontend**
+
+<p>
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
 **Dados & Infra**
 
 <p>
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -68,44 +74,42 @@ Meu foco são **produtos de software para pequenas e médias empresas** — CRMs
 
 ---
 
-### 📌 Projetos em destaque
+### 📌 Projetos públicos
 
 **Aplicações web full stack**
 
-| Projeto | Descrição | Stack |
+| Projeto | O que resolve | Stack |
 |---|---|---|
-| [**TaskFlow**](https://github.com/marcoscamposbhargo/TaskFlow) | Sistema de gestão de tarefas estilo Kanban com atualização em tempo real entre usuários. | Flask · Flask-SocketIO · WebSockets |
-| [**EcommerceSql**](https://github.com/marcoscamposbhargo/EcommerceSql) | Sistema web completo de analytics de e-commerce, com SQL avançado, agregações e CRUD. | Flask · SQLite · SQL |
-| [**devpulse-kanban**](https://github.com/marcoscamposbhargo/devpulse-kanban) | Aplicação web interativa de Kanban e gestão de projetos. | HTML5 · CSS3 · JavaScript |
-| [**NexusWorkspace**](https://github.com/marcoscamposbhargo/NexusWorkspace) | Workspace de gerenciamento dinâmico com backend Python e interface web. | Python · JS · HTML · CSS |
+| [**TaskFlow**](https://github.com/marcoscamposbhargo/TaskFlow) | Gestão de tarefas estilo Kanban com atualização em tempo real entre usuários conectados. | Flask · Flask-SocketIO · WebSockets |
+| [**EcommerceSql**](https://github.com/marcoscamposbhargo/EcommerceSql) | Analytics de e-commerce com SQL avançado, agregações e CRUD completo sobre base relacional. | Flask · SQLite · SQL |
+| [**NexusWorkspace**](https://github.com/marcoscamposbhargo/NexusWorkspace) | Workspace de gestão dinâmica com backend Flask e empacotamento desktop. | Python · Flask · SQLite · Pywebview |
+| [**devpulse-kanban**](https://github.com/marcoscamposbhargo/devpulse-kanban) | Kanban interativo de gestão de projetos, sem dependências de framework. | HTML5 · CSS3 · JavaScript |
 
 **APIs & backend**
 
-| Projeto | Descrição | Stack |
+| Projeto | O que resolve | Stack |
 |---|---|---|
-| [**JavaBank**](https://github.com/marcoscamposbhargo/JavaBank) | API REST de gerenciamento de contas bancárias com persistência relacional. | Java · Spring Boot · H2 |
-| [**task-manager-api**](https://github.com/marcoscamposbhargo/task-manager-api) | API REST de gerenciamento de tarefas. | REST |
-| [**cryptofinance-ecosystem**](https://github.com/marcoscamposbhargo/cryptofinance-ecosystem) | Plataforma de simulação de carteira (portfolio tracker) de criptoativos. | Java |
+| [**JavaBank**](https://github.com/marcoscamposbhargo/JavaBank) | API REST de contas bancárias em arquitetura em camadas (controller → service → repository), com validação de regras de saldo. | Java 21 · Spring Boot · JPA · H2/PostgreSQL |
+| [**cryptofinance-ecosystem**](https://github.com/marcoscamposbhargo/cryptofinance-ecosystem) | Simulação de carteira (portfolio tracker) de criptoativos. | Java |
 
-**Automação & ferramentas de desenvolvimento**
+**Ferramentas & automação**
 
-| Projeto | Descrição | Stack |
+| Projeto | O que resolve | Stack |
 |---|---|---|
-| [**DevCockPit**](https://github.com/marcoscamposbhargo/DevCockPit) | Central local de projetos: descobre repositórios, identifica a stack e integra Git e Docker. | Python · Docker |
-| [**ZapCRMLocal**](https://github.com/marcoscamposbhargo/ZapCRMLocal) | Mini CRM desktop para gerenciamento automatizado de conversas de WhatsApp. | Python · Flask |
+| [**DevCockPit**](https://github.com/marcoscamposbhargo/DevCockPit) | Central local de projetos: descobre repositórios, identifica a stack, mostra Git e Docker e resolve conflito de porta sem abrir terminal. | Python · Docker · SQLite |
+| [**tokensmonitor**](https://github.com/marcoscamposbhargo/tokensmonitor) | Janela flutuante que acompanha em tempo real o consumo de tokens do Claude Code em todas as sessões da máquina. | Electron · Node.js · JavaScript |
+| [**ZapCRMLocal**](https://github.com/marcoscamposbhargo/ZapCRMLocal) | Mini CRM desktop para gerenciamento automatizado de conversas de WhatsApp. | Python · Flask · Playwright · SQLite |
 | [**python-smart-scraper**](https://github.com/marcoscamposbhargo/python-smart-scraper) | Robô de monitoramento de preços em e-commerce, com histórico e alertas. | Python · SQLite |
-| [**tokensmonitor**](https://github.com/marcoscamposbhargo/tokensmonitor) | Monitor em tempo real de consumo de tokens do Claude Code. | JavaScript |
+| [**marketlab**](https://github.com/marcoscamposbhargo/marketlab) | Laboratório econômico interativo: modela mercados a partir de dados observáveis e demonstra oferta, demanda e elasticidade com gráficos. | Python |
 
 ---
 
-### 📊 Estatísticas
+### 📊 Métricas dos projetos
 
 <p align="center">
 <img src="https://img.shields.io/github/followers/marcoscamposbhargo?style=flat-square&label=seguidores&color=0F172A" alt="Seguidores" />
 <img src="https://img.shields.io/github/stars/marcoscamposbhargo?affiliations=OWNER&style=flat-square&label=stars%20nos%20reposit%C3%B3rios&color=0F172A" alt="Stars" />
 </p>
-
-**Métricas por projeto**
 
 | Projeto | Linguagem principal | Último commit | Tamanho do código | Stars |
 |---|---|---|---|---|
@@ -117,5 +121,6 @@ Meu foco são **produtos de software para pequenas e médias empresas** — CRMs
 | [**ZapCRMLocal**](https://github.com/marcoscamposbhargo/ZapCRMLocal) | <img src="https://img.shields.io/github/languages/top/marcoscamposbhargo/ZapCRMLocal?style=flat-square&color=3776AB" alt="Linguagem principal" /> | <img src="https://img.shields.io/github/last-commit/marcoscamposbhargo/ZapCRMLocal?style=flat-square&label=&color=0F172A" alt="Ultimo commit" /> | <img src="https://img.shields.io/github/languages/code-size/marcoscamposbhargo/ZapCRMLocal?style=flat-square&label=&color=0F172A" alt="Tamanho do codigo" /> | <img src="https://img.shields.io/github/stars/marcoscamposbhargo/ZapCRMLocal?style=flat-square&label=&color=F59E0B" alt="Stars" /> |
 | [**python-smart-scraper**](https://github.com/marcoscamposbhargo/python-smart-scraper) | <img src="https://img.shields.io/github/languages/top/marcoscamposbhargo/python-smart-scraper?style=flat-square&color=3776AB" alt="Linguagem principal" /> | <img src="https://img.shields.io/github/last-commit/marcoscamposbhargo/python-smart-scraper?style=flat-square&label=&color=0F172A" alt="Ultimo commit" /> | <img src="https://img.shields.io/github/languages/code-size/marcoscamposbhargo/python-smart-scraper?style=flat-square&label=&color=0F172A" alt="Tamanho do codigo" /> | <img src="https://img.shields.io/github/stars/marcoscamposbhargo/python-smart-scraper?style=flat-square&label=&color=F59E0B" alt="Stars" /> |
 | [**tokensmonitor**](https://github.com/marcoscamposbhargo/tokensmonitor) | <img src="https://img.shields.io/github/languages/top/marcoscamposbhargo/tokensmonitor?style=flat-square&color=3776AB" alt="Linguagem principal" /> | <img src="https://img.shields.io/github/last-commit/marcoscamposbhargo/tokensmonitor?style=flat-square&label=&color=0F172A" alt="Ultimo commit" /> | <img src="https://img.shields.io/github/languages/code-size/marcoscamposbhargo/tokensmonitor?style=flat-square&label=&color=0F172A" alt="Tamanho do codigo" /> | <img src="https://img.shields.io/github/stars/marcoscamposbhargo/tokensmonitor?style=flat-square&label=&color=F59E0B" alt="Stars" /> |
+| [**marketlab**](https://github.com/marcoscamposbhargo/marketlab) | <img src="https://img.shields.io/github/languages/top/marcoscamposbhargo/marketlab?style=flat-square&color=3776AB" alt="Linguagem principal" /> | <img src="https://img.shields.io/github/last-commit/marcoscamposbhargo/marketlab?style=flat-square&label=&color=0F172A" alt="Ultimo commit" /> | <img src="https://img.shields.io/github/languages/code-size/marcoscamposbhargo/marketlab?style=flat-square&label=&color=0F172A" alt="Tamanho do codigo" /> | <img src="https://img.shields.io/github/stars/marcoscamposbhargo/marketlab?style=flat-square&label=&color=F59E0B" alt="Stars" /> |
 
 <sub>Métricas lidas em tempo real da API do GitHub via shields.io.</sub>
