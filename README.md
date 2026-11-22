@@ -6,7 +6,7 @@ Background full stack em Python, TypeScript e Java — especifico, prototipo e l
 </p>
 
 <p align="center">
-<img src="https://d8j0ntlcm91z4.cloudfront.net/user_3EruJb5ahw3wwzTRQTV2zJg62ve/hf_20261121_162050_9421ae25-837f-40b7-b76c-210bd58f4269.png" alt="Banner" width="100%" />
+<img src="assets/banner.png" alt="Marcos Campos — Produto, IA e full stack: Python, TypeScript, JavaScript, Java, SQL, React, Flask, FastAPI, Spring Boot, Node.js, PostgreSQL, SQLite, Docker, Git, Linux" width="100%" />
 </p>
 
 <p align="center">
@@ -14,12 +14,6 @@ Background full stack em Python, TypeScript e Java — especifico, prototipo e l
 <img src="https://img.shields.io/badge/-Aplica%C3%A7%C3%A3o%20com%20IA-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/-LLMs-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/-Claude%20Code%20Expert-D97757?style=flat-square" />
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ---

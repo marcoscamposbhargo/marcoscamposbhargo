@@ -1,47 +1,167 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Marcos Campos - Product Manager e Aplicacao com IA">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0B1120"/>
-      <stop offset="55%" stop-color="#111C34"/>
-      <stop offset="100%" stop-color="#0B1120"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#22D3EE"/>
-      <stop offset="100%" stop-color="#7C3AED"/>
-    </linearGradient>
-    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.15"/>
-      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0.45"/>
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1344" height="576" viewBox="0 0 1344 576">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#070B18"/><stop offset="45%" stop-color="#160F3A"/><stop offset="100%" stop-color="#0B1030"/>
+  </linearGradient>
+  <radialGradient id="glowP"><stop offset="0%" stop-color="#7C3AED" stop-opacity="0.55"/><stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glowC"><stop offset="0%" stop-color="#22D3EE" stop-opacity="0.42"/><stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#22D3EE"/><stop offset="100%" stop-color="#7C3AED"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="1" x2="1" y2="0"><stop offset="0%" stop-color="#22D3EE"/><stop offset="100%" stop-color="#A78BFA"/></linearGradient>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+    <path d="M48 0H0V48" fill="none" stroke="#8B9BE8" stroke-opacity="0.06" stroke-width="1"/>
+  </pattern>
+  <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="9"/></filter>
+</defs>
 
-  <rect width="1200" height="300" fill="url(#bg)"/>
-  <rect width="1200" height="300" fill="url(#fade)" opacity="0.35"/>
+<rect width="1344" height="576" fill="url(#bg)"/>
+<rect width="1344" height="576" fill="url(#grid)"/>
+<ellipse cx="1150" cy="140" rx="430" ry="320" fill="url(#glowP)"/>
+<ellipse cx="1230" cy="470" rx="360" ry="250" fill="url(#glowC)"/>
+<ellipse cx="40" cy="560" rx="320" ry="200" fill="url(#glowP)" opacity="0.45"/>
 
-  <g stroke="#1E293B" stroke-width="1" opacity="0.6">
-    <path d="M760 0 V300 M860 0 V300 M960 0 V300 M1060 0 V300 M1160 0 V300"/>
-    <path d="M740 60 H1200 M740 150 H1200 M740 240 H1200"/>
+<!-- camadas full stack -->
+<g font-family="Inter" font-weight="600" font-size="13" letter-spacing="1.4">
+  <rect x="1008" y="150" width="236" height="46" rx="10" fill="#22D3EE" fill-opacity="0.13" stroke="#22D3EE" stroke-opacity="0.45"/>
+  <text x="1126" y="179" text-anchor="middle" fill="#67E8F9">FRONTEND</text>
+  <rect x="1008" y="212" width="236" height="46" rx="10" fill="#7C3AED" fill-opacity="0.18" stroke="#A78BFA" stroke-opacity="0.45"/>
+  <text x="1126" y="241" text-anchor="middle" fill="#C4B5FD">BACKEND / API</text>
+  <rect x="1008" y="274" width="236" height="46" rx="10" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.45"/>
+  <text x="1126" y="303" text-anchor="middle" fill="#6EE7B7">DADOS &amp; INFRA</text>
+  <g stroke="#8B96C9" stroke-opacity="0.5" stroke-width="1.5" stroke-dasharray="3 5">
+    <line x1="1126" y1="196" x2="1126" y2="212"/><line x1="1126" y1="258" x2="1126" y2="274"/>
+  </g>
+</g>
+<g>
+  <polyline points="960,452 1030,424 1100,392 1170,368 1244,344" fill="none" stroke="url(#line)"
+            stroke-width="3.5" stroke-linecap="round" filter="url(#soft)" opacity="0.55"/>
+  <polyline points="960,452 1030,424 1100,392 1170,368 1244,344" fill="none" stroke="url(#line)"
+            stroke-width="2.5" stroke-linecap="round" opacity="0.9"/>
+  <g fill="#0B1030" stroke-width="2.5">
+    <circle cx="960" cy="452" r="6" stroke="#22D3EE"/><circle cx="1100" cy="392" r="6" stroke="#67E8F9"/>
+    <circle cx="1244" cy="344" r="7" stroke="#A78BFA"/>
+  </g>
+</g>
+
+<text x="88" y="146" font-family="Inter" font-weight="600" font-size="19" fill="#22D3EE"
+      letter-spacing="5">PRODUTO · IA · FULL STACK</text>
+<text x="88" y="236" font-family="Inter Display" font-weight="900" font-size="76"
+      fill="#FFFFFF" letter-spacing="-1.5">MARCOS CAMPOS</text>
+<rect x="88" y="264" width="120" height="4" rx="2" fill="url(#accent)"/>
+<text x="88" y="308" font-family="Inter" font-weight="500" font-size="26" fill="#C7D2FE">Product Manager · Aplicação com IA · Claude Code Expert</text>
+<text x="88" y="342" font-family="Inter" font-weight="400" font-size="18" fill="#8B96C9">Background full stack — especifico, prototipo e levo o produto até produção</text>
+
+
+  <text x="88" y="388.0" font-family="Inter" font-weight="600" font-size="12.5"
+        fill="#6B77A8" letter-spacing="1.6">LINGUAGENS</text>
+
+  <g>
+    <rect x="220.0" y="366" width="91.9" height="36" rx="18.0"
+          fill="#7C3AED" fill-opacity="0.12" stroke="#7C3AED" stroke-opacity="0.42" stroke-width="1.2"/>
+    <text x="265.9" y="390.0" text-anchor="middle" font-family="Inter"
+          font-weight="600" font-size="18" fill="#A78BFA" letter-spacing="0.2">Python</text>
   </g>
 
-  <g fill="none" stroke="url(#accent)" stroke-width="2.5">
-    <path d="M800 210 L890 150 L980 170 L1070 90"/>
-  </g>
-  <g fill="#0B1120" stroke="url(#accent)" stroke-width="3">
-    <circle cx="800" cy="210" r="11"/>
-    <circle cx="890" cy="150" r="11"/>
-    <circle cx="980" cy="170" r="11"/>
-    <circle cx="1070" cy="90" r="13"/>
-  </g>
-  <g fill="#22D3EE" opacity="0.5">
-    <rect x="794" y="245" width="12" height="22" rx="3"/>
-    <rect x="884" y="232" width="12" height="35" rx="3"/>
-    <rect x="974" y="238" width="12" height="29" rx="3"/>
-    <rect x="1064" y="218" width="12" height="49" rx="3"/>
+  <g>
+    <rect x="320.9" y="366" width="125.0" height="36" rx="18.0"
+          fill="#7C3AED" fill-opacity="0.12" stroke="#7C3AED" stroke-opacity="0.42" stroke-width="1.2"/>
+    <text x="383.4" y="390.0" text-anchor="middle" font-family="Inter"
+          font-weight="600" font-size="18" fill="#A78BFA" letter-spacing="0.2">TypeScript</text>
   </g>
 
-  <text x="70" y="112" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#F8FAFC" letter-spacing="2">MARCOS CAMPOS</text>
-  <rect x="72" y="134" width="96" height="4" rx="2" fill="url(#accent)"/>
-  <text x="70" y="186" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="27" font-weight="600" fill="#E2E8F0">Product Manager · Aplicação com IA</text>
-  <text x="70" y="224" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#94A3B8">Background full stack em Python, TypeScript e Java</text>
-  <text x="70" y="262" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#67E8F9" letter-spacing="1.5">DISCOVERY → ESPECIFICAÇÃO → MVP → MÉTRICAS</text>
+  <g>
+    <rect x="454.9" y="366" width="123.0" height="36" rx="18.0"
+          fill="#7C3AED" fill-opacity="0.12" stroke="#7C3AED" stroke-opacity="0.42" stroke-width="1.2"/>
+    <text x="516.4" y="390.0" text-anchor="middle" font-family="Inter"
+          font-weight="600" font-size="18" fill="#A78BFA" letter-spacing="0.2">JavaScript</text>
+  </g>
+
+  <g>
+    <rect x="587.0" y="366" width="71.2" height="36" rx="18.0"
+          fill="#7C3AED" fill-opacity="0.12" stroke="#7C3AED" stroke-opacity="0.42" stroke-width="1.2"/>
+    <text x="622.6" y="390.0" text-anchor="middle" font-family="Inter"
+          font-weight="600" font-size="18" fill="#A78BFA" letter-spacing="0.2">Java</text>
+  </g>
+
+  <g>
+    <rect x="667.2" y="366" width="65.8" height="36" rx="18.0"
+          fill="#7C3AED" fill-opacity="0.12" stroke="#7C3AED" stroke-opacity="0.42" stroke-width="1.2"/>
+    <text x="700.1" y="390.0" text-anchor="middle" font-family="Inter"
+          font-weight="600" font-size="18" fill="#A78BFA" letter-spacing="0.2">SQL</text>
+  </g>
+
+  <text x="88" y="438.0" font-family="Inter" font-weight="600" font-size="12.5"
+        fill="#6B77A8" letter-spacing="1.6">FRAMEWORKS</text>
+
+  <g>
+    <rect x="220.0" y="416" width="79.5" height="36" rx="18.0"
+          fill="#22D3EE" fill-opacity="0.12" stroke="#22D3EE" stroke-opacity="0.42" stroke-width="1.2"/>
+    <text x="259.8" y="440.0" text-anchor="middle" font-family="Inter"
+          font-weight="600" font-size="18" fill="#22D3EE" letter-spacing="0.2">React</text>
+  </g>
+
+  <g>
+    <rect x="308.5" y="416" width="75.8" height="36" rx="18.0"
+          fill="#22D3EE" fill-opacity="0.12" stroke="#22D3EE" stroke-opacity="0.42" stroke-width="1.2"/>
+    <text x="346.4" y="440.0" text-anchor="middle" font-family="Inter"
+          font-weight="600" font-size="18" fill="#22D3EE" letter-spacing="0.2">Flask</text>
+  </g>
+
+  <g>
+    <rect x="393.3" y="416" width="96.5" height="36" rx="18.0"
+          fill="#22D3EE" fill-opacity="0.12" stroke="#22D3EE" stroke-opacity="0.42" stroke-width="1.2"/>
+    <text x="441.6" y="440.0" text-anchor="middle" font-family="Inter"
+          font-weight="600" font-size="18" fill="#22D3EE" letter-spacing="0.2">FastAPI</text>
+  </g>
+
+  <g>
+    <rect x="498.8" y="416" width="131.9" height="36" rx="18.0"
+          fill="#22D3EE" fill-opacity="0.12" stroke="#22D3EE" stroke-opacity="0.42" stroke-width="1.2"/>
+    <text x="564.8" y="440.0" text-anchor="middle" font-family="Inter"
+          font-weight="600" font-size="18" fill="#22D3EE" letter-spacing="0.2">Spring Boot</text>
+  </g>
+
+  <g>
+    <rect x="639.7" y="416" width="96.8" height="36" rx="18.0"
+          fill="#22D3EE" fill-opacity="0.12" stroke="#22D3EE" stroke-opacity="0.42" stroke-width="1.2"/>
+    <text x="688.1" y="440.0" text-anchor="middle" font-family="Inter"
+          font-weight="600" font-size="18" fill="#22D3EE" letter-spacing="0.2">Node.js</text>
+  </g>
+
+  <text x="88" y="488.0" font-family="Inter" font-weight="600" font-size="12.5"
+        fill="#6B77A8" letter-spacing="1.6">DADOS &amp; INFRA</text>
+
+  <g>
+    <rect x="220.0" y="466" width="133.0" height="36" rx="18.0"
+          fill="#34D399" fill-opacity="0.12" stroke="#34D399" stroke-opacity="0.42" stroke-width="1.2"/>
+    <text x="286.5" y="490.0" text-anchor="middle" font-family="Inter"
+          font-weight="600" font-size="18" fill="#34D399" letter-spacing="0.2">PostgreSQL</text>
+  </g>
+
+  <g>
+    <rect x="362.0" y="466" width="87.3" height="36" rx="18.0"
+          fill="#34D399" fill-opacity="0.12" stroke="#34D399" stroke-opacity="0.42" stroke-width="1.2"/>
+    <text x="405.6" y="490.0" text-anchor="middle" font-family="Inter"
+          font-weight="600" font-size="18" fill="#34D399" letter-spacing="0.2">SQLite</text>
+  </g>
+
+  <g>
+    <rect x="458.3" y="466" width="92.1" height="36" rx="18.0"
+          fill="#34D399" fill-opacity="0.12" stroke="#34D399" stroke-opacity="0.42" stroke-width="1.2"/>
+    <text x="504.3" y="490.0" text-anchor="middle" font-family="Inter"
+          font-weight="600" font-size="18" fill="#34D399" letter-spacing="0.2">Docker</text>
+  </g>
+
+  <g>
+    <rect x="559.3" y="466" width="54.6" height="36" rx="18.0"
+          fill="#34D399" fill-opacity="0.12" stroke="#34D399" stroke-opacity="0.42" stroke-width="1.2"/>
+    <text x="586.6" y="490.0" text-anchor="middle" font-family="Inter"
+          font-weight="600" font-size="18" fill="#34D399" letter-spacing="0.2">Git</text>
+  </g>
+
+  <g>
+    <rect x="622.9" y="466" width="77.2" height="36" rx="18.0"
+          fill="#34D399" fill-opacity="0.12" stroke="#34D399" stroke-opacity="0.42" stroke-width="1.2"/>
+    <text x="661.5" y="490.0" text-anchor="middle" font-family="Inter"
+          font-weight="600" font-size="18" fill="#34D399" letter-spacing="0.2">Linux</text>
+  </g>
 </svg>
