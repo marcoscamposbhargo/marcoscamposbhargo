@@ -78,6 +78,15 @@ Atuo como **Building a Product Manager com foco em aplicação com IA**: parto d
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+**Ambiente de desenvolvimento**
+
+<p>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Orca-0D9488?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Git%20Worktrees-25A162?style=flat-square" />
+</p>
+
 ---
 
 ### 📌 Projetos públicos
